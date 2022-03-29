@@ -1,0 +1,2 @@
+Chat em tempo real com NodeJS + Socket.io | Diego Fernandes
+https://youtu.be/-jXfKDYJJvo
